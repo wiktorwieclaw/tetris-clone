@@ -1,0 +1,3 @@
+[submodule "lib/gxng"]
+	path = lib/gxng
+	url = https://github.com/wiktorwieclaw/gxng

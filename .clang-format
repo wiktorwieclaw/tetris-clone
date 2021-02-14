@@ -1,0 +1,11 @@
+BasedOnStyle: Google
+ColumnLimit: 80
+AllowShortEnumsOnASingleLine: true
+AlignConsecutiveAssignments: true
+AlignConsecutiveMacros: true
+PointerAlignment: Left
+DerivePointerAlignment: false
+AlignAfterOpenBracket: DontAlign
+BreakBeforeBraces: Custom
+BraceWrapping:
+  BeforeElse: true
